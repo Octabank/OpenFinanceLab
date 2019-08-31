@@ -29,7 +29,7 @@ This section covers crucial concepts of trading and investment (in order for bes
 - [Ergodicity Economics](https://ergodicityeconomics.files.wordpress.com/2018/06/ergodicity_economics.pdf) - Ole Peters and Alexander Adamou (2018)
 - [Farmer's Fable](https://www.farmersfable.org/)
 - [Ray Dalio breaks down his "Holy Grail"](https://youtu.be/Nu4lHaSh7D4)
-- [God Portfolio](https://alphaarchitect.com/2016/02/02/even-god-would-get-fired-as-an-active-investor/)
+- [God Portfolio](https://alphaarchitect.com/2016/02/02/even-god-would-get-fired-as-an-active-investor/) - Alpha Architect
 - [Option Alpha](http://optionalpha.com/) - Free Options Trading Courses
 - [Safe Haven Investing Part I - Not all risk mitigation is created equal](https://www.universa.net/UniversaResearch_SafeHavenPart1_RiskMitigation.pdf) - Universa Investments (2017)
 - [Safe Haven Investing Part II - Not all risk is created equal](https://www.universa.net/UniversaResearch_SafeHavenPart2_NotAllRisk.pdf) - Universa Investments (2017)
@@ -46,9 +46,9 @@ This section covers crucial concepts of trading and investment (in order for bes
 
 ### Data sources
 
-- [Curva de Juros](https://www.anbima.com.br/pt_br/informar/curva-de-juros-intradia.htm)
-- [Séries Históricas - B3](http://www.bmfbovespa.com.br/pt_br/servicos/market-data/historico/mercado-a-vista/series-historicas/)
-- [Histórico de preços e taxas - Tesouro direto](https://sisweb.tesouro.gov.br/apex/f?p=2031:2:0::::)
+- [Curva de Juros](https://www.anbima.com.br/pt_br/informar/curva-de-juros-intradia.htm) - Anbima
+- [Séries Históricas](http://www.bmfbovespa.com.br/pt_br/servicos/market-data/historico/mercado-a-vista/series-historicas/) - B3
+- [Histórico de preços e taxas](https://sisweb.tesouro.gov.br/apex/f?p=2031:2:0::::) - Tesouro direto
 
 ### Projects worth mentioning
 
