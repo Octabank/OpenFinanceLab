@@ -1,6 +1,6 @@
 # How to Contribute
 
-:sparkles::confetti_ball: Thanks for contributing! :confetti_ball::sparkles:
+:sparkles::confetti_ball: **Thanks for contributing!** :confetti_ball::sparkles:
 
 Before implementing new notebooks or scripts, feel free to [submit an issue](https://github.com/Octabank/OpenFinanceLab/issues/new) explaining what we should add or change. We can talk there :blush:.
 
@@ -19,10 +19,12 @@ If your question is about a lack of clarity of the code or study, consider submi
 3. After the issue is created, if you want to resolve it, you can [fork the repository](https://github.com/Octabank/OpenFinanceLab/fork), work there to then submit a pull request.
 
 4. This repository follows [gitmoji](https://gitmoji.carloscuesta.me/):sunglasses: commit standard. Please, follow this standard to provide an easy way of identifying the purpose or intention of your commit. And always write a clear log message for your commits. One-line messages are fine for small changes, but bigger changes should look like this:
-
+	```
     $ git commit -m ":emoji: A brief summary of the commit
     > 
     > A paragraph describing what changed and its impact."
+	```
 
-Aaaaand that's it!
+## Aaaaand that's it!
+
 Thank you very much for contributing.
